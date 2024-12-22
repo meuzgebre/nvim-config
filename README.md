@@ -2,6 +2,8 @@
 
 This repository contains a Neovim configuration tailored for optimal usability, integrated with Alacritty as the terminal emulator. Follow the steps below to set it up.
 
+![](screenshot.png)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Configuration Structure](#configuration-structure)
